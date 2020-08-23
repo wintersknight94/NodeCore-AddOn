@@ -1,0 +1,16 @@
+-------------------------------------------------
+--------------------\ TO-DO /--------------------
+-------------------------------------------------
+
+     Make lava and water source nodes movable by doors.
+     Fix water not being displaced by falling entities and itemstacks.
+     Fix water displacement 'floodable' scan to extend past 1 node around.
+     Fix Luxlamp incremental charging speed bug.
+     Fix Tempered Glass Recipe
+     
+     Add lode adzes/rakes
+     Add lode frames
+     Add lode doors
+     Add glass doors
+     Add tongs
+     Add mallaxe
